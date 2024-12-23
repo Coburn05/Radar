@@ -6,5 +6,5 @@ I want to apply this idea to track things like paper airplanes, and maybe bugs i
 I went with a static 3-radar aproach as I do not want to use 2 moving radars, where one pans and the other tilts. While this is a workable idea, the math used to get an accurate position
 on the object would be complicated and still provide a low resolution when compared to the 3 radar aproach.
 
-this is a graph of the ideal "visual" zone of the radar, where s is the distance between radars
+this is a graph of the ideal "visual" zone of the radar, where s is the distance between radars: 
 https://www.desmos.com/3d/bksvc8zjhk
